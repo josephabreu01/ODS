@@ -1,0 +1,26 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Agenda 2030",
+      "url": "/about"
+    },
+    {
+      "name": "Saber mas",
+      "url": "/default"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Agenda 2030",
+      "url": "/about"
+    }
+  ]
+}
