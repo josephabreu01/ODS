@@ -36,7 +36,7 @@ export const getStaticProps = () => {
 
   return {
     props: {
-      categories: ["ODS"]categories,
+      categories: categories,
     },
   };
 };
