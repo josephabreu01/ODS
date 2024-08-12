@@ -100,9 +100,9 @@ const Header = () => {
               </React.Fragment>
             ))}
           </ul>
-          <div className="order-1 ml-auto md:order-2 md:ml-0">
+          <div className="order-1 ml-auto md:order-2 md:ml-1">
             <div
-              className="cursor-pointer p-2 text-xl text-dark hover:text-primary"
+              className="cursor-pointer pr-8 text-xl text-dark hover:text-primary"
               onClick={() => {
                 setSearchModal(true);
               }}

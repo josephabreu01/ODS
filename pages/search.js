@@ -37,13 +37,13 @@ const SearchPage = ({ authors }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Search results for <span className="text-primary">{query.key}</span>
+            Busquedas para <span className="text-primary">{query.key}</span>
           </h1>
           {searchResults.length > 0 ? (
             <Posts posts={searchResults} authors={authors} />
           ) : (
             <div className="py-24 text-center text-h3 shadow">
-              No Search Found
+              No encontrado
             </div>
           )}
         </div>

@@ -1,7 +1,7 @@
 ---
 title: "Agenda 2030"
 meta_title: "About"
-image: "/images/S-SDG-Poster_-Letter.jpg"
+image: "/images/posts/S-SDG-Poster_-Letter.jpg"
 layout: "about"
 draft: false
 

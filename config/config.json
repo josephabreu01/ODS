@@ -2,9 +2,9 @@
   "site": {
     "title": "PROYECTO ODS",
     "base_url": "/",
-    "favicon": "/images/Logo-blanco-UAPA.png",
-    "logo": "/images/Uapa.png",
-    "logo_width": "100",
+    "favicon": "/images/posts/ODS logopng.png",
+    "logo": "/images/posts/ODS logopng.png",
+    "logo_width": "50",
     "logo_height": "50",
     "logo_text": "ODS Uapa"
   },
